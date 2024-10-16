@@ -1,3 +1,22 @@
+# Sistema de Controle de Negociações
+
+Este repositório contém um sistema de controle de negociações, projetado para ajudar empresas a gerenciar suas transações comerciais de forma eficiente e organizada.
+
+## Funcionalidades
+
+- **Registro de Negociações**: Crie e acompanhe negociações com clientes.
+
+
+## Instalação
+
+Para rodar o projeto localmente, siga os passos abaixo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/sistema-controle-negociacoes.git
+   cd sistema-controle-negociacoes
+
+
 ## Autor
 <div align="center">
 <a href="https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
